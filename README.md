@@ -20,4 +20,4 @@ ___Most of the modules will be automatically installed when you run the file (ex
 
 #
 
-#### __The current verion is 0.0.0. Later versions of BloobullyBlop can be accessed under the "ARCHIVE" folder.__ ####
+#### __The current verion is 0.0.1. Later versions of BloobullyBlop can be accessed under the "ARCHIVE" folder.__ ####
